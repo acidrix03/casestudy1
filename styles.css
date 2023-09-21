@@ -4,13 +4,13 @@ body {
     padding: 0;
     background-color: #f0f0f0;
 }
-/* Style for the profile image */
+
 #profile-image {
-    width: 220px; /* Adjust the width as needed */
-    height: 220px; /* Adjust the height as needed */
-    border: 50%; /* Make it round for a profile picture */
-    float: left; /* Float the image to the right side */
-    margin: 0px 10px 10px 10px; /* Adjust margins as needed */
+    width: 220px; 
+    height: 220px; 
+    border: 50%; 
+    float: left; 
+    margin: 0px 10px 10px 10px; 
 }
 header {
     background-color: #000000;
