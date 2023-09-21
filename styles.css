@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+/* Style for the profile image */
+#profile-image {
+    width: 220px; /* Adjust the width as needed */
+    height: 220px; /* Adjust the height as needed */
+    border: 50%; /* Make it round for a profile picture */
+    float: left; /* Float the image to the right side */
+    margin: 0px 10px 10px 10px; /* Adjust margins as needed */
+}
+header {
+    background-color: #000000;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+section {
+    background-color: #fff;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+ul {
+    list-style-type: disc;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
